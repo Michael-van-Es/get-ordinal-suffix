@@ -45,9 +45,6 @@ Good old plain vanilla JavaScript.
 * Michael van Es
 
 ## License &amp; Copyright
-&copy; GNU General Public License v3.0
+&copy; MIT License
 
-> Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications,
-> which include larger works using a licensed work, under the same license. 
-> Copyright and license notices must be preserved. 
-> Contributors provide an express grant of patent rights.
+> A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
