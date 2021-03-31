@@ -43,6 +43,7 @@ Good old plain vanilla JavaScript.
 
 ## Contributors
 * Michael van Es
+* I welcome outside contribution.
 
 ## License &amp; Copyright
 &copy; MIT License
