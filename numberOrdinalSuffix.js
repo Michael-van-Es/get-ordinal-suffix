@@ -3,7 +3,7 @@ var getOrdinalSuffix = {
 		//
 		// First ensure that the parameter passed to this function is a valid number
 		if (isNaN(suffixNeedingNumber)){
-			return " Error found: Paramater is not a valid number";
+			return " Error found: Parameter is not a valid number";
 		}
 		//
 		// Next, check if the number is a decimal number. If so, we only want to work with the decimal part of the number
