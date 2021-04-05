@@ -43,7 +43,7 @@ Good old plain vanilla JavaScript.
 
 ## Contributors
 * Michael van Es
-* I welcome outside contribution.
+* If you have suggestions for how this function can be improved, or would like to report a bug, please open an issue. All contributions are welcome!
 
 ## License &amp; Copyright
 &copy; MIT License
